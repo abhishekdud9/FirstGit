@@ -1,7 +1,6 @@
 public class MyMultiply {
     public int multiply(int a,int b){
-       int c=a*b;
-       return c;
+              return a*b;
     }
     public static void main(String []args){
         MyMultiply mm=new MyMultiply();
